@@ -1,4 +1,4 @@
-# About Me
+# About
 
 - 👋 Hi, I’m Boban Krsteski
 - 👀 I’m interested in Business Analysis, Open Source Software and Server Administration
